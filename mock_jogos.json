@@ -1,4 +1,12 @@
 [
-    {"jogador1": "Djokovic", "jogador2": "Nadal", "prob1": 0.6, "prob2": 0.4},
-    {"jogador1": "Alcaraz", "jogador2": "Medvedev", "prob1": 0.55, "prob2": 0.45}
+  {
+    "jogador1": "Djokovic",
+    "jogador2": "Nadal",
+    "resultado": "Djokovic venceu"
+  },
+  {
+    "jogador1": "Alcaraz",
+    "jogador2": "Medvedev",
+    "resultado": "Medvedev venceu"
+  }
 ]
