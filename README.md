@@ -1,3 +1,3 @@
 # Tênis Predict
 
-Aplicação com IA para previsão de jogos de tênis.
+Sistema inteligente para previsão de jogos de tênis com IA.

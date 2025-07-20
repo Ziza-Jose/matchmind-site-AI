@@ -1,1 +1,1 @@
-// Rede Neural simulada
+// Rede Neural artificial (mock)

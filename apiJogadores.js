@@ -1,1 +1,1 @@
-// Dados simulados de jogadores
+// Serviço de dados de jogadores

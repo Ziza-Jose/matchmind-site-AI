@@ -1,1 +1,1 @@
-// Painel do admin
+// Painel do administrador

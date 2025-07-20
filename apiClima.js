@@ -1,1 +1,1 @@
-// API mock de clima
+// Serviço para obter dados do clima

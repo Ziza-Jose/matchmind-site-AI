@@ -1,1 +1,1 @@
-// Comparativo de jogadores
+// Componente gráfico comparativo

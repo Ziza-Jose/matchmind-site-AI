@@ -1,1 +1,1 @@
-// Modelo ELO por superfície
+// Sistema ELO por superfície

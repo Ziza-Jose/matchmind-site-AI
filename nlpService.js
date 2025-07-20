@@ -1,1 +1,1 @@
-// Análise emocional simulada
+// Serviço de análise emocional via NLP

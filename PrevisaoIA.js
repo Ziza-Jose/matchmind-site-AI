@@ -1,1 +1,1 @@
-// Componente de previsão
+// Botão de previsão de jogo
