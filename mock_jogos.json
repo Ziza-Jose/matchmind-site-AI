@@ -1,1 +1,4 @@
-[{"jogo": "Alcaraz vs Sinner", "data": "2025-07-21"}]
+[
+    {"jogador1": "Djokovic", "jogador2": "Nadal", "prob1": 0.6, "prob2": 0.4},
+    {"jogador1": "Alcaraz", "jogador2": "Medvedev", "prob1": 0.55, "prob2": 0.45}
+]

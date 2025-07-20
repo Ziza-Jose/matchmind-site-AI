@@ -1,1 +1,5 @@
-{"local": "Paris", "temperatura": "27ºC"}
+{
+    "clima": "Ensolarado",
+    "temperatura": 27,
+    "umidade": 58
+}

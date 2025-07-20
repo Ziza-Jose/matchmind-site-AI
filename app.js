@@ -1,5 +1,4 @@
-
 document.addEventListener("DOMContentLoaded", () => {
-  const appDiv = document.getElementById("app");
-  appDiv.innerHTML = "<strong>Simulação ativa:</strong> Os dados de previsão serão exibidos aqui em breve.";
+    const dashboard = document.getElementById("dashboard");
+    dashboard.innerHTML = "<p>[⚙️ Simulação de previsão em andamento... dados serão exibidos aqui]</p>";
 });
