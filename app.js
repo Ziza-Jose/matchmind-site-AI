@@ -1,4 +1,5 @@
-document.getElementById("app").innerHTML = `
-  <h1>Tênis Predict</h1>
-  <p>Bem-vindo ao sistema de previsão de jogos de tênis com IA.</p>
-`;
+
+document.addEventListener("DOMContentLoaded", () => {
+  const appDiv = document.getElementById("app");
+  appDiv.innerHTML = "<strong>Simulação ativa:</strong> Os dados de previsão serão exibidos aqui em breve.";
+});
