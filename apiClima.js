@@ -1,0 +1,1 @@
+// API mock de clima
