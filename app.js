@@ -1,2 +1,1 @@
-// JavaScript base para simulação e integração futura com IA e Firebase
-console.log('App iniciado');
+console.log('Aplicação MatchMind AI carregada no Vercel');
